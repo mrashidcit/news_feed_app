@@ -62,6 +62,9 @@ public class ArticleAdapter extends ArrayAdapter<Article> {
 //        imageView.setImageBitmap(bmp);
         titleView.setText(currentArticle.getTitle());
         authorView.setText(currentArticle.getAuthor());
+
+        String publishAt = currentArticle.getPublicedAt();
+
         publishedAtView.setText(currentArticle.getPublicedAt());
 
 
