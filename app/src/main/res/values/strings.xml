@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">News Feed</string>
+
+
+    <string name="news_category_top_stories">Top Stories</string>
+
+    <string name="news_category_world">World</string>
+
+    <string name="news_category_business">Business</string>
+
+    <string name="news_category_technology">Technology</string>
+
+    <string name="news_category_entertainment">Entertainment</string>
+
+    <string name="news_category_sports">Sports</string>
+
+    <string name="news_category_science">Science</string>
+
+
+
 </resources>
