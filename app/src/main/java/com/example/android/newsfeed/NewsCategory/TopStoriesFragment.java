@@ -24,9 +24,9 @@ public class TopStoriesFragment extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.news_list, container, false);
 
-        TextView sampleView = (TextView) rootView.findViewById(R.id.tvSample);
-
-        sampleView.setText("Top Stories");
+//        TextView sampleView = (TextView) rootView.findViewById(R.id.tvSample);
+//
+//        sampleView.setText("Top Stories");
 
         return rootView;
     }

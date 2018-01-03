@@ -16,6 +16,11 @@
 
     <string name="news_category_science">Science</string>
 
+    <!-- Errror message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="no_news">No news found in this Category.</string>
+
 
 
 </resources>
